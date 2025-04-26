@@ -1,0 +1,23 @@
+# Virtual Environments
+envs/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and Results
+*.log
+*.csv
+*.xlsx
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
